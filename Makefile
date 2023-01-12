@@ -1,0 +1,2 @@
+all:
+	docsify serve .
