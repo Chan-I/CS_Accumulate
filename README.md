@@ -8,8 +8,15 @@
 
 ## OperatingSystem
 - [操作系统: 01进程的概念](OperatingSystem/操作系统：01进程的概念.md)
-- [操作系统: 02线程和并发](OperatingSystem/操作系统：02线程和并发.md)
-- [操作系统: 03CPU调度](OperatingSystem/操作系统：03CPU调度.md)
+- [操作系统: 04线程和并发](OperatingSystem/操作系统：04线程和并发.md)
+- [操作系统: 05CPU调度](OperatingSystem/操作系统：05CPU调度.md)
+- [操作系统: 09主存](OperatingSystem/操作系统：09主存.md)
+- [操作系统: 10虚拟内存.md](OperatingSystem/操作系统：10虚拟内存.md)
+- [操作系统: 12I/O系统.md](OperatingSystem/操作系统：12IO系统.md)
+- [操作系统: 13文件系统.md](OperatingSystem/操作系统：13文件系统.md)
+- [操作系统: 14文件系统的实现.md](OperatingSystem/操作系统：14文件系统的实现.md)
+- [操作系统: 15文件系统内部.md](OperatingSystem/操作系统：15文件系统内部.md)
+- [操作系统: 20Linux系统.md](OperatingSystem/操作系统：20Linux系统.md)
 - [操作系统概念第七版](OperatingSystem/操作系统概念第七版.md)
 - [IPC进程间通信](OperatingSystem/IPC进程间通信.md)
 
