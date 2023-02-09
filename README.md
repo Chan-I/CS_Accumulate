@@ -23,6 +23,7 @@
 ## Unix
 
 - [SHELL中一些比较高级的指令](Unix/SHELL中一些比较高级的指令梳理.md)
+- [linux下的shell脚本教程](Unix/linux下的shell脚本教程.md)
 
 
 ## DataBase
