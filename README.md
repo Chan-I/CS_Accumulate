@@ -5,6 +5,7 @@
 - [C语言——C-Puzzles](Clang/C语言——C-Puzzles.md)
 - [C语言——Linux中的技巧](Clang/C语言——Linux中的技巧.md)
 - [C语言——static-extern-inline关键字](Clang/C语言——static-extern-inline关键字.md)
+- [glibc原理——strlen函数实现细节](Clang/glibc原理——strlen函数实现细节.md)
 
 ## OperatingSystem
 - [操作系统: 01进程的概念](OperatingSystem/操作系统：01进程的概念.md)
@@ -24,6 +25,7 @@
 
 - [SHELL中一些比较高级的指令](Unix/SHELL中一些比较高级的指令梳理.md)
 - [linux下的shell脚本教程](Unix/linux下的shell脚本教程.md)
+- [数据对齐](Unix/数据对齐.md)
 
 
 ## DataBase
